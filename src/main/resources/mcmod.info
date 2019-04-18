@@ -1,0 +1,16 @@
+[
+{
+  "modid": "diorite_trapdoors",
+  "name": "Diorite Trapdoor",
+  "description": "This mod was made for the german youtuber/twitch streamer items4Sacred, who wanted a mod with trapdoors, to annoy another streamer named Clym",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mari_023"],
+  "credits": "to items4Sacred, and Clym",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

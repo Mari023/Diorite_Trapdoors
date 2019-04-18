@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"###"
+	],
+	"key": {
+		"#": [
+			{
+				"item": "minecraft:stone",
+				"data": 3
+			},
+			{
+				"item": "minecraft:stone",
+				"data": 3
+			},
+			{
+				"item": "minecraft:stone",
+				"data": 3
+			},
+			{
+				"item": "minecraft:stone",
+				"data": 3
+			},
+			{
+				"item": "minecraft:stone",
+				"data": 3
+			},
+			{
+				"item": "minecraft:stone",
+				"data": 3
+			}
+		]
+	},
+	"result": {
+		"item": "diorite_trapdoors:diorite_trapdoor",
+		"count": 2
+	}
+}
